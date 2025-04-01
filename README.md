@@ -34,7 +34,7 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/yourusername/cybercats-vpn.git
+git clone https://github.com/CAHEK2005/cybercats-vpn.git
 cd cybercats-vpn
 ```
 
